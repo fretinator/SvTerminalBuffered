@@ -15,7 +15,7 @@ NOTE: You must inlucde a secrets.h with this information:
 
 #define SECRETS_H
 
-const String host = "Server I"; // Example 192.168.1.233
+const String host = "Server IP"; // Example 192.168.1.233
 
 const int port = ####; // Example 8080 
 
